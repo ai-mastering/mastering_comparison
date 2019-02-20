@@ -8,7 +8,6 @@ We compared the mastered audio quality of automated mastering services (AI Maste
 
 AI Mastering seems better than LANDR from the perspective of MEI20190207.
 However, there is a need to further study about the validity of MEI20190207 because of dataset bias (e.g. all mixes in datasets have high dynamic range compared to mastered audios).
-And please note that this survey cannot be objective because AI Mastering is our service.
 
 Please check if mastered audios that have high MixEvaluationIndex20190207 are actually good.
 
